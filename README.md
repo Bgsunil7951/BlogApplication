@@ -13,21 +13,21 @@ blog-app/
 │   └── package.json     # Node dependencies
 
 🚀 Features
-Frontend (React.js)
-Modern UI with responsive design
-View blog posts and single post pages
-Create/Edit/Delete posts (authenticated)
-Login/Registration with JWT support
-React Router for navigation
-Axios for API communication
+Frontend (React.js):=
+Modern UI with responsive design, 
+View blog posts and single post pages, 
+Create/Edit/Delete posts (authenticated),
+Login/Registration with JWT support,
+React Router for navigation,
+Axios for API communication.
 
-Backend (Spring Boot)
-RESTful API for CRUD operations
-JWT-based authentication and authorization
-User registration and login endpoints
-Role-based access control
-PostgreSQL/MySQL (configurable)
-Spring Security and JPA
+Backend (Spring Boot):=
+RESTful API for CRUD operations,
+JWT-based authentication and authorization,
+User registration and login endpoints,
+Role-based access control,
+MySQL (configurable),
+Spring Security and JPA,
 
 ⚙️ Tech Stack
 Frontend
