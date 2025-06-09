@@ -30,18 +30,19 @@ MySQL (configurable),
 Spring Security and JPA,
 
 ⚙️ Tech Stack
-Frontend
+Frontend:
 
-React.js
-Axios
-React Router
-Tailwind CSS / Bootstrap (optional)
+React.js, 
+Axios, 
+React Router, 
+Tailwind CSS.
 
-Backend
-Java 17+
-Spring Boot
-Spring Security
-Spring Data JPA
-JWT
-MySQL
-Maven
+Backend:
+
+Java 17+, 
+Spring Boot, 
+Spring Security, 
+Spring Data JPA, 
+JWT, 
+MySQL, 
+Maven.
